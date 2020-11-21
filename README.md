@@ -2,6 +2,9 @@
 
 Documentacion del trabajo remoto 
 
+Haciendo Cambios en la organizacion 
+
+
 Editando 
 
 ## Organizacion
@@ -13,7 +16,5 @@ de dicho repositorio los miembro o colaboradores podran hacer un fork hacia sus 
 ## Creacion del Fork
 
 Para crear un fork debes inciar sesion en GitHub y luego ingresar a la landing page del proyecto que  quieras sacar tu fork
-
-
 
 
