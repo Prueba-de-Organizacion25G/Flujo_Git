@@ -2,6 +2,8 @@
 
 Documentacion del trabajo remoto 
 
+Editando 
+
 ## Organizacion
 
 Se recomienda crear una organizacion que sea la propitaria del repositorio principal. A partir
